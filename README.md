@@ -1,16 +1,16 @@
+## About this project
+- This project is based on the tutorials from Traversy Media [React JS Crash Course](https://www.youtube.com/watch?v=w7ejDZ8SWv8) and [React Router v6 Major Changes](https://www.youtube.com/watch?v=k2Zk5cbiZhg)
+- By Steven Bash
+
 ## To run
 - `npm start`
 - `npm run server`
 
-## Note
-- This project is based on the tutorials from Traversy Media [React JS Crash Course](https://www.youtube.com/watch?v=w7ejDZ8SWv8) and [React Router v6 Major Changes](https://www.youtube.com/watch?v=k2Zk5cbiZhg)
-
 ## Known issue (Resolved)
 - Something in TaskDetails.js is causing there to be an infinite loop performing GET requests.
 - resolved by adding `if (loading)` in fetchTask
-&nbsp;<br />
-&nbsp;<br />
-
+---
+---
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
