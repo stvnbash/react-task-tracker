@@ -3,8 +3,8 @@
 - By Steven Bash
 
 ## To run
-- `npm start`
-- `npm run server`
+- `npm start` to start the React server on localhost:3000
+- `npm run server` to start the JSON server on localhost:5000
 
 ## Known issue (Resolved)
 - Something in TaskDetails.js is causing there to be an infinite loop performing GET requests.
